@@ -1,0 +1,37 @@
+.login{
+    display: grid;
+    place-items: center;
+    max-width: 400px;
+    min-width: 400px;
+    background-color: black;
+    width: 50%;
+    margin: auto auto;
+    max-height: 700px;
+    height: 50%;
+    border-radius: 20px;
+}
+
+
+.logo{
+    
+    height: 70px;
+}
+
+.login > a {
+    padding: 20px;
+    border-radius: 99px;
+    background-color: white;
+    font-weight: 800;
+    color: black;
+    text-decoration: none;    
+}
+
+.border{
+    height: 100vh;
+    display: grid;
+    background-color: white
+}
+
+.artist_img{
+    height:290px;
+}
