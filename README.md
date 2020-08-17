@@ -1,3 +1,7 @@
+This project is currently a work in progress.
+
+This project is a clone of the spotify web appdeveloped using React.js, ReactContext API, Spotify API and Material UI
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
